@@ -1,0 +1,13 @@
+
+{
+  "name": "millennium-toastmasters-club",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Official website for Millennium Toastmasters Club, Abu Dhabi.",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'No build step required for ESM-native app'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
